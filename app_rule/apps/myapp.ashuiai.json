@@ -1,0 +1,19 @@
+{
+    "non_standard_files": [],
+    "package": "myapp.ashuiai",
+    "verified": true,
+    "authors": [
+        "break-soul"
+    ],
+    "last_update": {
+        "flags": "read_storage, write_storage",
+        "target_api": 33,
+        "version_code": 10,
+        "version_name": "8.2",
+        "timestamp": 1724938818
+      },
+    "recommendation": "@unnecessary",
+    "behaviors": [
+        "@standard"
+    ]
+}

@@ -20,9 +20,9 @@ VERSION = '0.1.2'
 # Script usage (help)
 USAGE = '%prog [options] arg0 arg1'
 # Script repo in github
-GITHUB_URL = 'https://github.com/RikkaApps/StorageRedirect-assets'
+GITHUB_URL = 'https://github.com/break-soul/StorageRedirect-assets'
 # Auto rules download source (Github repo required)
-ISSUE_REPO = 'RikkaApps/StorageRedirect-assets'
+ISSUE_REPO = 'break-soul/StorageRedirect-assets'
 
 
 def main():
