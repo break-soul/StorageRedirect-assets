@@ -1,0 +1,19 @@
+{
+  "package": "com.sogou.androidtool",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "YandexStudio"
+  ],
+  "observers": [
+    {
+      "source": "SogouDownload/App",
+      "target": "Download/SogouDownload",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

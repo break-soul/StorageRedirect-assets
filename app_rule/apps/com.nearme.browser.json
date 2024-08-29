@@ -1,0 +1,19 @@
+{
+  "package": "com.nearme.browser",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "highhhope"
+  ],
+  "observers": [
+    {
+      "source": "Browser/Download",
+      "target": "Download/Browser",
+      "description": "downloaded_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

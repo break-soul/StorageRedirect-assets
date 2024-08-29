@@ -1,0 +1,28 @@
+{
+  "package": "com.netease.cloudmusic.lite",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "Maolaohei"
+  ],
+  "observers": [
+    {
+      "source": "netease/cloudmusiclite/Dj",
+      "target": "Music/neteaselitedj",
+      "description": "downloaded_music",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    },
+    {
+      "source": "netease/cloudmusiclite/Music",
+      "target": "Music/neteaselite",
+      "description": "downloaded_music",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

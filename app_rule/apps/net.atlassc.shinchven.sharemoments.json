@@ -1,0 +1,22 @@
+{
+  "package": "net.atlassc.shinchven.sharemoments",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "备份软件内容时会产生不标准文件夹，建议进行文件夹同步。"
+  },
+  "authors": [
+    "RunningMelos"
+  ],
+  "observers": [
+    {
+      "source": "ShareMoments/backups",
+      "target": "Documents/ShareMoment",
+      "description": "app_backup",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

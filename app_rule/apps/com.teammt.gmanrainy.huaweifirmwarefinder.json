@@ -1,0 +1,14 @@
+{
+  "package": "com.teammt.gmanrainy.huaweifirmwarefinder",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "fxsheep"
+  ],
+  "observers": [
+    {
+      "description": "downloaded_files",
+      "source": "TeamMT/FirmwareFinder"
+    }
+  ]
+}

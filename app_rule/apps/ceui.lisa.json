@@ -1,0 +1,19 @@
+{
+  "package": "ceui.lisa",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "Maolaohei"
+  ],
+  "observers": [
+    {
+      "source": "Shaft/SingleImages",
+      "target": "Pictures/pixivd",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

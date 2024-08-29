@@ -1,0 +1,11 @@
+{
+  "package": "com.havoc.updater",
+  "recommend": false,
+  "verified": true,
+  "description": {
+    "zh_CN": "第三方ROM系统更新程序"
+  },
+  "authors": [
+    "END-Send"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "package": "kr.co.robin.android.easteregg",
+  "recommend": false,
+  "verified": true,
+  "description": {
+    "zh_CN": "此应用不会在外部存储中创建任何文件或文件夹。"
+  },
+  "authors": [
+    "ReekyStive"
+  ]
+}

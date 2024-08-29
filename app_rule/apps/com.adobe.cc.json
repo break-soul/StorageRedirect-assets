@@ -1,0 +1,11 @@
+{
+  "package": "com.adobe.cc",
+  "recommend": false,
+  "verified": true,
+  "description": {
+    "zh_CN": "该应用<b>行为良好</b>，未见该应用在外部存储创建任何文件或文件夹。"
+  },
+  "authors": [
+    "ReekyStive"
+  ]
+}

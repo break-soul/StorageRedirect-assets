@@ -1,0 +1,11 @@
+{
+  "package": "com.sunboxsoft.oilforgdandroid",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "该应用的SDK会在sdcard目录创建360/baidu等文件夹"
+  },
+  "authors": [
+    "naicfeng"
+  ]
+}

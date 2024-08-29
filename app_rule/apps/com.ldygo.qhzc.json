@@ -1,0 +1,11 @@
+{
+  "package": "com.ldygo.qhzc",
+  "recommend": false,
+  "verified": false,
+  "description": {
+    "zh_CN": "开启会导致联动云无法正常拍照"
+  },
+  "authors": [
+    "Clear-up"
+  ]
+}

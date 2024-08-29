@@ -1,0 +1,28 @@
+{
+  "package": "org.qpython.qpy",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "fairyex"
+  ],
+  "observers": [
+    {
+      "source": "qpython/projects",
+      "target": "Other_format/qpython/projects",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": true
+    },
+    {
+      "source": "qpython/scripts",
+      "target": "Other_format/qpython/scripts",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": true
+    }
+  ]
+}

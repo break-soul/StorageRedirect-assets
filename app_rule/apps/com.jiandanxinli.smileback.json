@@ -1,0 +1,11 @@
+{
+  "package": "com.jiandanxinli.smileback",
+  "recommend": false,
+  "verified": true,
+  "description": {
+    "zh_CN": "应用数据皆在/sdcard/Android/data/下"
+  },
+  "authors": [
+    "Slept-Warrior"
+  ]
+}

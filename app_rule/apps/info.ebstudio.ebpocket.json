@@ -1,0 +1,22 @@
+{
+  "package": "info.ebstudio.ebpocket",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "该应用会创建辞典文件目录"
+  },
+  "authors": [
+    "zihunyeyu"
+  ],
+  "observers": [
+    {
+      "source": "EBPocket",
+      "target": "Documents/eudb_jp",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

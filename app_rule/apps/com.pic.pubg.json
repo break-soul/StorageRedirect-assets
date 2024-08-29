@@ -1,0 +1,11 @@
+{
+  "package": "com.pic.pubg",
+  "recommend": false,
+  "verified": true,
+  "description": {
+    "zh_CN": "会访问和平精英的文件"
+  },
+  "authors": [
+    "WallBreakerNO4"
+  ]
+}

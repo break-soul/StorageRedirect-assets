@@ -1,0 +1,11 @@
+{
+  "package": "com.aurora.adroid",
+  "recommend": false,
+  "verified": true,
+  "description": {
+    "zh_CN": "可在应用设置中调整"
+  },
+  "authors": [
+    "clafiok"
+  ]
+}

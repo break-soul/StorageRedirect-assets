@@ -1,0 +1,22 @@
+{
+  "package": "com.iglesiaintermedia.mobmuplat",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "en_US": "该应用会在外部存储创建<b>工程文件夹。</b>"
+  },
+  "authors": [
+    "ReekyStive"
+  ],
+  "observers": [
+    {
+      "source": "MobMuPlat",
+      "target": "Documents/MobMuPlat",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

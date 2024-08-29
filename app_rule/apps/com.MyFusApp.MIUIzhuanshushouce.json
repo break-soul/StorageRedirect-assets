@@ -1,0 +1,11 @@
+{
+  "package": "com.MyFusApp.MIUIzhuanshushouce",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "创建了AndroLua文件夹"
+  },
+  "authors": [
+    "Frozty4628"
+  ]
+}

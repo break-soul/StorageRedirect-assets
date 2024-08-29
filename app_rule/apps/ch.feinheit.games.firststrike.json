@@ -1,0 +1,11 @@
+{
+  "package": "ch.feinheit.games.firststrike",
+  "recommended": false,
+  "verified": true,
+  "description": {
+    "zh_CN_#Hans": "这是一个游戏，如果没有特殊需要为了保护隐私也可以打开。"
+  },
+  "authors": [
+    "Sodium-Aluminate"
+  ]
+}

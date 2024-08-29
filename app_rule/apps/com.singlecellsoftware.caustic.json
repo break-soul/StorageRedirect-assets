@@ -1,0 +1,11 @@
+{
+  "package": "com.singlecellsoftware.caustic",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "en_US": "该应用会将<b>演示内容</b>解压至外部存储。"
+  },
+  "authors": [
+    "ReekyStive"
+  ]
+}

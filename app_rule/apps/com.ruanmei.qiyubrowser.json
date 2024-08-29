@@ -1,0 +1,28 @@
+{
+  "package": "com.ruanmei.qiyubrowser",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "YandexStudio"
+  ],
+  "observers": [
+    {
+      "source": "Qiyu_downloads/Qiyu_screenshots",
+      "target": "Pictures/Qiyu_Screenshots",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "allow_child": false,
+      "allow_temp": false
+    },
+    {
+      "source": "Qiyu_downloads",
+      "target": "Download/Qiyu_Downloads",
+      "description": "downloaded_files",
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

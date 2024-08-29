@@ -1,0 +1,11 @@
+{
+  "package": "air.thix.sciencesense.chemist",
+  "recommend": false,
+  "verified": true,
+  "description": {
+    "en_US": "未见该应用在外部存储中创建文件或文件夹。"
+  },
+  "authors": [
+    "ReekyStive"
+  ]
+}

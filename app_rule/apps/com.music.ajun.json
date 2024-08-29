@@ -1,0 +1,19 @@
+{
+  "package": "com.music.ajun",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "TioaTyan"
+  ],
+  "observers": [
+    {
+      "source": "轻应用系列/轻音乐/Download",
+      "target": "Music/轻音乐",
+      "description": "downloaded_music",
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

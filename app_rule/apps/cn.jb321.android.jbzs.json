@@ -1,0 +1,11 @@
+{
+  "package": "cn.jb321.android.jbzs",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "会在Android目录下生成obj文件夹，里面有个隐藏文件夹.um，文件夹内是软件生成的设备标识文件"
+  },
+  "authors": [
+    "qiaokelidou"
+  ]
+}

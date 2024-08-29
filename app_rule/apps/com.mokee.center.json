@@ -1,0 +1,11 @@
+{
+  "package": "com.mokee.center",
+  "recommended": false,
+  "verified": false,
+  "description": {
+    "zh_CN_#Hans": "经测试，开启重定向后（包括增强模式），无法正确将mokee.license文件与mokee_updates文件夹的读写重定向。"
+  },
+  "authors": [
+    "whc200187"
+  ]
+}

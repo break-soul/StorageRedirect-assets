@@ -1,0 +1,11 @@
+{
+  "package": "mattecarra.accapp",
+  "recommend": false,
+  "verified": false,
+  "description": {
+    "zh_CN_#Hans": "ACC Daemon 需要读取特定目录下的配置文件"
+  },
+  "authors": [
+    "ilazycat"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "package": "com.plan.kot32.tomatotime",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "WiIIiamWei"
+  ],
+  "observers": [
+    {
+      "source": "tomatodo",
+      "target": "Pictures/Tomatodo",
+      "description": "saved_pictures",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

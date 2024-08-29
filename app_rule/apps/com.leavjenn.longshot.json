@@ -1,0 +1,19 @@
+{
+  "package": "com.leavjenn.longshot",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "284354572"
+  ],
+  "observers": [
+    {
+      "source": "longshot",
+      "target": "Pictures/Screenshots",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

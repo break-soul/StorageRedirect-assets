@@ -1,0 +1,11 @@
+{
+  "package": "com.cleanmaster.mguard",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN_#Hans": "勾选Android下的所有文件以达到清理"
+  },
+  "authors": [
+    "l3072153052"
+  ]
+}

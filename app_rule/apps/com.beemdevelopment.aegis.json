@@ -1,0 +1,22 @@
+{
+  "package": "com.beemdevelopment.aegis",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "“同步文件夹”为导出备份文件所在位置"
+  },
+  "authors": [
+    "RunningMelos"
+  ],
+  "observers": [
+    {
+      "source": "Aegis",
+      "target": "Documents/Aegis",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

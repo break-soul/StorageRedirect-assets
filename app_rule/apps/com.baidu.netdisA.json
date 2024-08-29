@@ -1,0 +1,19 @@
+{
+  "package": "com.baidu.netdisA",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "beisina"
+  ],
+  "observers": [
+    {
+      "source": "BaiduNetdisk",
+      "target": "Download/BaiduNetdisk",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

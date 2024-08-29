@@ -1,0 +1,19 @@
+{
+  "package": "com.onetap.bit8painter",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "Small-Ku"
+  ],
+  "observers": [
+    {
+      "source": "8bitPainter",
+      "target": "Pictures/8bitPainter",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

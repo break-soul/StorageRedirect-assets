@@ -1,0 +1,19 @@
+{
+  "package": "com.qihoo360.callsafe",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "monkey-sking"
+  ],
+  "observers": [
+    {
+      "source": "360/callsafe/recorder",
+      "target": "Record/PhoneRecord",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

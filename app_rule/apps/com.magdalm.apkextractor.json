@@ -1,0 +1,22 @@
+{
+  "package": "com.magdalm.apkextractor",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "该应用将提取的<b>应用安装包</b>保存至外部存储。"
+  },
+  "authors": [
+    "ReekyStive"
+  ],
+  "observers": [
+    {
+      "source": "APK Extractor Pro",
+      "target": "Documents/APKExtractorPro",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "package": "com.anybeen.mark.app",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "Stalaxy"
+  ],
+  "observers": [
+    {
+      "source": "YinJiNote",
+      "target": "Pictures/YinJiNote",
+      "description": "saved_files",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

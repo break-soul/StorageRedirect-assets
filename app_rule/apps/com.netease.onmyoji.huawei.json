@@ -1,0 +1,19 @@
+{
+  "package": "com.netease.onmyoji.huawei",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "yangwe1"
+  ],
+  "observers": [
+    {
+      "source": "Pictures",
+      "target": "Pictures/onmyoji_huawei",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

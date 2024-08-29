@@ -1,0 +1,11 @@
+{
+  "package": "me.seasonyuu.xposed.networkspeedindicator.h2os",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "en_US": "The directory of NetworkSpeedIndicator will be made at Internet Storage for logging.\n\n应用会在内部存储中创建 NetworkSpeedIndicator 目录用于存放运行日志。"
+  },
+  "authors": [
+    "SukkaW"
+  ]
+}

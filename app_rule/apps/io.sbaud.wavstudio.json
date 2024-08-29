@@ -1,0 +1,22 @@
+{
+  "package": "io.sbaud.wavstudio",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "此应用会在外部存储创建一个 WaveEditor 文件夹。"
+  },
+  "authors": [
+    "ReekyStive"
+  ],
+  "observers": [
+    {
+      "source": "WaveEditor",
+      "target": "Documents/WaveEditor",
+      "description": "saved_files",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

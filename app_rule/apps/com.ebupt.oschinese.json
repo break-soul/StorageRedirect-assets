@@ -1,0 +1,11 @@
+{
+  "package": "com.ebupt.oschinese",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_SG_#Hans": "开了重定向，应用一直死在开启页面"
+  },
+  "authors": [
+    "hongfa1380"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "package": "com.cryok.larva",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "St-kai"
+  ],
+  "observers": [
+    {
+      "source": "Blackbox",
+      "target": "Music/Blackbox",
+      "description": "saved_music",
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

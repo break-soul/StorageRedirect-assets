@@ -1,0 +1,22 @@
+{
+  "package": "com.cg.android.countdown",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "此应用将屏幕截图保存至外部存储。"
+  },
+  "authors": [
+    "ReekyStive"
+  ],
+  "observers": [
+    {
+      "source": "Countdown",
+      "target": "Pictures/Countdown",
+      "description": "saved_pictures",
+      "call_media_scan": true,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

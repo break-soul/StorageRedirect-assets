@@ -1,0 +1,19 @@
+{
+  "package": "com.egeio.fangcloud",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "iuyaa"
+  ],
+  "observers": [
+    {
+      "source": "fangcloud/Egeio-Download",
+      "target": "Download/FangCloudDownload",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

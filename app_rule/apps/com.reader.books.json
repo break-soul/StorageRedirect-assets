@@ -1,0 +1,8 @@
+{
+  "package": "com.reader.books",
+  "recommend": false,
+  "verified": true,
+  "authors": [
+    "ciskonc"
+  ]
+}

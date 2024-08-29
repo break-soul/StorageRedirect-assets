@@ -1,0 +1,11 @@
+{
+  "package": "com.besome.sketch",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "en_US": "该应用在外部存储根目录创建 .sketchware 和 sketchware 文件夹。开启重定向后未见应用异常。"
+  },
+  "authors": [
+    "ReekyStive"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "package": "com.sophos.smsec",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "en_US": "Only thing it should ever need writing to /sdcard is a backup of settings if you use it"
+  },
+  "authors": [
+    "alexa-v2"
+  ]
+}

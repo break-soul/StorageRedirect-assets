@@ -1,0 +1,11 @@
+{
+  "package": "io.scer.pocketmine",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "改应用将<b>服务端</b>文件存放在外部存储。"
+  },
+  "authors": [
+    "ReekyStive"
+  ]
+}

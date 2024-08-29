@@ -1,0 +1,8 @@
+{
+  "package": "com.sonyericsson.mtp.extension.backuprestore",
+  "recommend": false,
+  "verified": true,
+  "authors": [
+    "ZeroSimple"
+  ]
+}

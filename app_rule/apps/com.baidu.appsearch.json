@@ -1,0 +1,19 @@
+{
+  "package": "com.baidu.appsearch",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "YandexStudio"
+  ],
+  "observers": [
+    {
+      "source": "BaiduAse69f3ed7",
+      "target": "Download/BaiduAppSearch",
+      "description": "downloaded_files",
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

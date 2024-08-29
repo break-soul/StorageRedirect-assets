@@ -1,0 +1,11 @@
+{
+  "package": "com.YoStarEN.AzurLane",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "en_US": "该应用在共享存储空间创建了.EveryplayCache文件夹，重定向该文件夹并不影响使用"
+  },
+  "authors": [
+    "yuezhengbaizhi"
+  ]
+}

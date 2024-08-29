@@ -1,0 +1,11 @@
+{
+  "package": "com.bilibili.zzzj.bili",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "目前测试版就有在存储根目录建立多个其他应用名的文件夹"
+  },
+  "authors": [
+    "ckx000"
+  ]
+}

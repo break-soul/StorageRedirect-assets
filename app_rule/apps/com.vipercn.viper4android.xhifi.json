@@ -1,0 +1,11 @@
+{
+  "package": "com.vipercn.viper4android.xhifi",
+  "recommended": true,
+  "verified": false,
+  "description": {
+    "zh_CN_#Hans": "会在根目录下创建Viper4Android文件夹"
+  },
+  "authors": [
+    "z919126592"
+  ]
+}

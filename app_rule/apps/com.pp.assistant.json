@@ -1,0 +1,19 @@
+{
+  "package": "com.pp.assistant",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "YandexStudio"
+  ],
+  "observers": [
+    {
+      "source": "pp/downloader/apk",
+      "target": "Download/PPAssistant",
+      "description": "downloaded_files",
+      "call_media_scan": false,
+      "add_to_downloads": true,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

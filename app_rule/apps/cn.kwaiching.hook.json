@@ -1,0 +1,11 @@
+{
+  "package": "cn.kwaiching.hook",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "请将此插件的文件夹与要hook的软件共享"
+  },
+  "authors": [
+    "HZY040122"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "package": "com.sonyericsson.android.camera3d",
+  "recommend": false,
+  "verified": true,
+  "description": {
+    "zh_CN": "这是索尼的相机全景扫描功能，不会创建不规范的文件夹。"
+  },
+  "authors": [
+    "ZeroSimple"
+  ]
+}

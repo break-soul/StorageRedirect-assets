@@ -1,0 +1,11 @@
+{
+  "package": "pl.zdunex25.updater",
+  "recommend": false,
+  "verified": true,
+  "description": {
+    "zh_CN": "这是欧洲版MIUI    xiaomi.eu的系统更新程序"
+  },
+  "authors": [
+    "Frozty4628"
+  ]
+}

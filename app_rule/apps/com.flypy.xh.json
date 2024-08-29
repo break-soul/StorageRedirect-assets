@@ -1,0 +1,19 @@
+{
+  "package": "com.flypy.xh",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "vvvxo"
+  ],
+  "observers": [
+    {
+      "source": "FlyPY",
+      "target": "Documents/FlyPy",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "package": "com.mokee.pay",
+  "recommend": false,
+  "verified": false,
+  "description": {
+    "zh_CN_#Hans": "不能开启重定向，会造成mokee.lisence无法被魔趣中心识别"
+  },
+  "authors": [
+    "whc200187"
+  ]
+}

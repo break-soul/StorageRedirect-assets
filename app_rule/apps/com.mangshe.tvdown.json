@@ -1,0 +1,22 @@
+{
+  "package": "com.mangshe.tvdown",
+  "recommend": true,
+  "verified": false,
+  "description": {
+    "zh_CN": "规则可能随着版本更新有较大变化"
+  },
+  "authors": [
+    "lifansama"
+  ],
+  "observers": [
+    {
+      "source": "cilijie/down",
+      "target": "Download/蟒蛇下载",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}

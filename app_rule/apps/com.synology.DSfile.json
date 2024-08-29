@@ -1,0 +1,19 @@
+{
+  "package": "com.synology.DSfile",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "naicfeng"
+  ],
+  "observers": [
+    {
+      "source": "DSfile",
+      "target": "Documents/DSfile",
+      "description": "saved_files",
+      "call_media_scan": true,
+      "add_to_downloads": true,
+      "allow_child": true,
+      "allow_temp": false
+    }
+  ]
+}
